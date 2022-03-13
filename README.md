@@ -27,8 +27,4 @@ and enter game number you want to replay
 2. Spacebar to attack from king
 3. R for rage spell which increases with each R
 4. H for heal spell
-5. L for leviathan axe
-
-# Bonus Attempted: 
-
-King’s leviathan axe: Press L to activate Leviathan Axe
+5. King’s leviathan axe: Press L to activate Leviathan Axe
